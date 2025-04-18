@@ -5,7 +5,7 @@
   text-align: center;
 }
 body{
-  background-color:black;
+  background-color:#3AAFA9;
 }
 button{
   color:blue;
@@ -15,7 +15,7 @@ button{
 }
 button:hover{
   border-radius: 50px;
-  transition: 2s;
+  transition: 5s;
   color: black;
 }
 .num1{
